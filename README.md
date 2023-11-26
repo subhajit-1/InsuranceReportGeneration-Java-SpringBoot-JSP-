@@ -70,7 +70,7 @@ This table represents the structure of the `CITIZEN_PLANS_INFO` table with its f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/subhajit-1/1st_InsuranceReportGeneration-App.git
+   git clone https://github.com/subhajit-1/InsuranceReportGeneration-Java-SpringBoot-JSP-.git
    ```
 
 2. Open the project in your preferred IDE.
@@ -80,6 +80,10 @@ This table represents the structure of the `CITIZEN_PLANS_INFO` table with its f
 4. Run the application.
 
 5. Access the welcome page.
+
+## Author
+
+SUBHAJIT DAS 
 
 ## Contribution
 
